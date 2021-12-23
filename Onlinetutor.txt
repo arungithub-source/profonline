@@ -1,0 +1,33 @@
+Teacher
+*******
+signup
+login
+dashboard
+notification
+storage
+    for tutorials
+Live class room
+send and receive tasks
+Edit/update profile criterias
+View ratings and reviews
+Availability maintenance
+**************************************************************************************
+Student
+*******
+signup
+login
+dashboard
+Search for staff(Location wise,Subject wise,rating wise,)
+Tie up with selected staff
+Pay to staff
+Search for tutorials.
+notification
+Live class room
+send and receive tasks
+Edit/update profile criterias
+Rating and reviews on staffs
+Last availability of staffs.
+***************************************************************************************
+
+
+
